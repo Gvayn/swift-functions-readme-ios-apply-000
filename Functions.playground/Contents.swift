@@ -27,7 +27,7 @@ func sayHelloToScratchy() {
 func sayHelloToCat(catName: String) {
     print("Hello, \(catName), why do you sleep so much?")
 }
-
+sayHelloToCat(catName: "Thomas")
 
 func sayHello(name: String) {
     print("Hello \(name), why do you sleep so much?")
